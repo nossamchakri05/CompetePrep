@@ -26,22 +26,4 @@
 ---
 
 ## 📁 Folder Structure
-CompetePrep/
-│
-├── index.html # Main page (exam selection)
-├── login.html # Login page
-├── signup.html # Signup page
-├── jee.html # JEE exam content
-├── neet.html # NEET exam content
-├── upsc.html # UPSC exam content
-│
-├── css/
-│ └── style.css # Styling for the entire website
-│
-├── js/
-│ └── script.js # JS for form validation and UI interactions
-│
-├── images/
-│ └── *.jpg / *.png # All images used in the UI
-│
-└── README.md # Project documentation
+<pre lang="markdown"><code>## 📁 Folder Structure ``` CompetePrep/ │ ├── index.html # Main page (exam selection) ├── login.html # Login page ├── signup.html # Signup page ├── jee.html # JEE exam content ├── neet.html # NEET exam content ├── upsc.html # UPSC exam content │ ├── css/ │ └── style.css # Styling for the entire website │ ├── js/ │ └── script.js # JS for form validation and UI interactions │ ├── images/ │ └── *.jpg / *.png # All images used in the UI │ └── README.md # Project documentation ``` </code></pre>
